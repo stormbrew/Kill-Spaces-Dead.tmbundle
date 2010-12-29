@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Kill Spaces Dead</string>
+	<key>ordering</key>
+	<array>
+		<string>6A70AD2B-55D8-4F82-A0AA-25F09652B412</string>
+		<string>417F50E0-9303-49F4-8BAD-74887E0A3245</string>
+	</array>
+	<key>uuid</key>
+	<string>555EB2D0-9DD1-4068-8658-1B4C24B2B796</string>
+</dict>
+</plist>
